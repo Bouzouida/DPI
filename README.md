@@ -1,0 +1,2 @@
+# DPI
+DPI mobile
